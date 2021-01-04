@@ -46,7 +46,7 @@
     "postcss-nested": "^1.0.0",
     "postcss-simple-extend": "^1.0.0",
     "postcss-simple-vars-async": "^1.2.1",
-    "url-loader": "^0.5.7",
+    "url-loader": "^0.6.2",
     "webpack": "^1.13.1",
     "whatwg-fetch": "^1.0.0",
     "yamljs": "^0.2.8"
