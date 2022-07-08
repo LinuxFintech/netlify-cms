@@ -140,7 +140,7 @@
     "lodash": "^4.13.1",
     "mdast-util-definitions": "^1.2.2",
     "mdast-util-to-string": "^1.0.4",
-    "moment": "^2.11.2",
+    "moment": "^2.29.4",
     "prop-types": "^15.5.10",
     "react": "^16.0.0",
     "react-aria-menubutton": "^5.1.0",
